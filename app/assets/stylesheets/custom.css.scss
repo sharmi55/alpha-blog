@@ -13,7 +13,6 @@ $navbar-default-bg: black;
 }
 
 #logo.hover {
-  color: red;
   text-decoration: none;
 }
 
@@ -23,7 +22,7 @@ $navbar-default-bg: black;
 }
 
 .navbar {
-  background-color:#a3c2c2;
+  background-color: #94b8b8;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
@@ -49,9 +48,9 @@ $navbar-default-bg: black;
 }
 
 .btn-xlarge {
-  font-size: 1.7em;
-  background-color: black;
-  color: white;
+  font-size: 1.5em;
+  background-color: #a6a6a6;
+  color:  #fff9e6;
 }
 
 .container {
@@ -62,6 +61,7 @@ footer{
   margin-top: 45px;
   padding-top: 5px;
   border-top: 3px solid #eaeaea;
+  color: #52527a;
 }
 
 footer a:hover {
